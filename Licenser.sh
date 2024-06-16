@@ -31,7 +31,7 @@ echo "Usage: ./Licenser.sh <Name of license> <File name>"
 }
 
 if [ $# -eq 1 ] && [ "$1" == "-help" ]; then
-    man ./Licenser.1
+    man ./.Licenser.1
     exit 0
 fi
 
