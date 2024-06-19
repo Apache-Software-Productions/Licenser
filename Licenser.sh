@@ -1,7 +1,25 @@
 #!/bin/bash
-# THIS SOFTWARE WAS INSPIRED BY AND BASED OFF OF THE WORK OF: Nishanth Shanmuhham. In this repository > https://github.com/nishanths/license
-# Authors/Developer of Licenser: Aeternusdio.
-# LICENSER IS DUAL LICENSED UNDER THE MIT & APACHE SOFTWARE PRODUCTIONS (ASP) LICENSE VERSION 2.
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+#                   -- [ Licenser ] --                   #  
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+# Software Name: Licenser
+# Version: 1.0.0
+# Authors: AeternusDio
+# Date Written: Tuesday June 18, 2024
+#
+# Acknowledgments:
+#   # THIS SOFTWARE WAS INSPIRED BY AND BASED OFF OF THE WORK OF: Nishanth Shanmuhham. In this repository > https://github.com/nishanths/license
+#
+# Description:
+#   A simple command line tool for generating License text to files.
+#
+# License: ASP License V2 & MIT (Dual Licensed)
+# Website: No Wesbite.
+# Contact: No Contact.
+#
+# Dependencies:
+# - BASH
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
 #
 # Copyright (c) 2024 Apache Software Production. (ASP)
 #
