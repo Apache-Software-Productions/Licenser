@@ -1,6 +1,6 @@
 #!/bin/bash
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
-#                   -- [ Licenser ] --                   #  
+#                   -- [ Licenser ] --                      #  
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
 # Software Name: Licenser
 # Version: 1.0.0
@@ -9,7 +9,7 @@
 # Date Written: Tuesday June 18, 2024
 #
 # Acknowledgments:
-#   # THIS SOFTWARE WAS INSPIRED BY AND BASED OFF OF THE WORK OF: Nishanth Shanmuhham. In this repository > https://github.com/nishanths/license
+#    THIS SOFTWARE WAS INSPIRED BY AND BASED OFF OF THE WORK OF: Nishanth Shanmuhham. In this repository > https://github.com/nishanths/license
 #
 # Description:
 #   A simple command line tool for generating License text to files.
