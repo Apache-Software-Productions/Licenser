@@ -5,6 +5,7 @@
 # Software Name: Licenser
 # Version: 1.0.0
 # Authors: AeternusDio
+# [ Edited with Vim. ]
 # Date Written: Tuesday June 18, 2024
 #
 # Acknowledgments:
