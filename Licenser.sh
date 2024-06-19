@@ -6,7 +6,7 @@
 # Version: 1.0.0
 # Authors: AeternusDio
 # [ Edited with Vim. ]
-# Date Written: Tuesday June 18, 2024
+# Date Written: Saturday June 15, 2024
 #
 # Acknowledgments:
 #    THIS SOFTWARE WAS INSPIRED BY AND BASED OFF OF THE WORK OF: Nishanth Shanmuhham. In this repository > https://github.com/nishanths/license
