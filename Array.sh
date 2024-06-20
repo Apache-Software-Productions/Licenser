@@ -34,6 +34,6 @@ declare -A Templates=(
 [odbl-1.0]=".Templates/odbl-1.0.tmpl"
 [gpl-2.0]=".Templates/gpl-2.0.tmpl"
 [gpl-3.0]=".Templates/gpl-3.0.tmpl"
-[asp-1.0]=".Templates/asp-1.0.tmpl"
-[asp-2.0]=".Templates/asp-2.0.tmpl"
+[quaktech-1.0]=".Templates/quaktech-1.0.tmpl"
+[quaktech-2.0]=".Templates/quaktech-2.0.tmpl"
 )
