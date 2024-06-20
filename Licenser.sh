@@ -4,6 +4,7 @@
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
 # Software Name: Licenser
 # Version: 1.0.0
+# Ecosystem: QUAKTECH Software Development Software Suite. (DSS)
 # Authors: AeternusDio
 # [ Edited with Vim. ]
 # Date Written: Saturday June 15, 2024
@@ -14,7 +15,7 @@
 # Description:
 #   A simple command line tool for generating License text to files.
 #
-# License: ASP License V2 & MIT (Dual Licensed)
+# License: QUAKTECH License V2 & MIT (Dual Licensed)
 # Website: No Wesbite.
 # Contact: No Contact.
 #
@@ -22,7 +23,7 @@
 # - BASH
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
 #
-# Copyright (c) 2024 Apache Software Production. (ASP)
+# Copyright (c) 2024 QUAKTECH
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
